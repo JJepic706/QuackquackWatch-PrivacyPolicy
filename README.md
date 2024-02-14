@@ -28,5 +28,5 @@ Thank you for entrusting QuackQuack as your preferred watch face. We value your 
 
 **6. Other Links**
 
-Google play link: 
+Google play link: *coming soon*
 Donate: https://www.buymeacoffee.com/devjoshu13
