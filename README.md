@@ -28,6 +28,6 @@ Thank you for entrusting QuackQuack as your preferred watch face. We value your 
 
 **6. Other Links**
 
-Google play link: *coming soon*
+Google play link: https://play.google.com/store/apps/details?id=com.main.quackquackwatchface&gl=UK&utm_source=emea_OO
 
 Donate: https://www.buymeacoffee.com/devjoshu13
